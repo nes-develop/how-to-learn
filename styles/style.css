@@ -84,7 +84,7 @@
 
 .two-columns__brief {
   width: 175px;
-  color: blue;
+  color: #2f80ed;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
@@ -97,7 +97,6 @@
   justify-content: space-between;
   line-height: 34px;
   font-size: 24px;
-
 }
 
 .two-columns__paragraph {
@@ -109,6 +108,66 @@
 .two-cloumns__span-accent {
   font-weight: 700;
 }
+
+.digits {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.section-title {
+    width: 60%;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.section-subtitle {
+  width: 60%;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.table {
+  width: 1100px;
+  display: flex;
+  justify-content:space-between;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin-top: 0;
+  margin-bottom: 100px;
+  padding: 0;
+}
+
+.table__cell {
+  width: 250px;
+  margin-top: 60px;
+}
+
+.table__cell-heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+
+}
+
+.table__cell-text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
 
 
 /* и элемента с модификатором вида ключ-значение */
