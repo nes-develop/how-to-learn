@@ -39,6 +39,7 @@
   line-height: 96px;
   font-size: 102px;
   z-index: 1;
+
 }
 
 .header__subtitle {
@@ -46,6 +47,10 @@
   max-width: 388px;
   bottom: 30px;
   left: 64px;
+  /* уезжает ссылка на следующую строку */
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: 400;
   z-index: 1;
   margin: 0;
   padding: 0;
@@ -79,7 +84,7 @@
 }
 
 .description {
-  padding: 100px 0;
+  padding: 100px 0 0;
 }
 
 .two-columns {
@@ -155,6 +160,7 @@
   list-style-type: none;
   flex-wrap: wrap;
   padding: 0;
+  margin: 0;
 }
 
 .table__cell {
@@ -252,14 +258,8 @@
   width: 200px;
   color: white;
   margin-top: 80px;
-  margin-right: 0;
   margin-bottom: 0;
 }
-
- .table__text_theme_dark {
-  line-height: 1.2;
-  font-size: 18px;
- }
 
 .kaufman__triangle {
   position: absolute;
@@ -294,13 +294,11 @@
   display:flex;
   flex-direction: column;
   align-items:flex-start;
+  justify-content: space-between;
 }
 
 .footer__column_content_copyright {
   flex-basis: 711px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
 }
 
 .footer__author {
