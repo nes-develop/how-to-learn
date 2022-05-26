@@ -293,12 +293,11 @@
 .footer__column {
   display:flex;
   flex-direction: column;
-  align-items:flex-start;
-  justify-content: space-between;
 }
 
 .footer__column_content_copyright {
   flex-basis: 711px;
+  justify-content: space-between;
 }
 
 .footer__author {
