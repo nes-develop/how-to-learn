@@ -284,6 +284,8 @@
   font-weight: normal;
   color: #2f80ed;
   text-decoration: none;
+  margin: 0 0 0 48px;
+  padding: 0;
 }
 .book-container {
   display: flex;
@@ -296,10 +298,6 @@
   /* object-fit: cover; */
 }
 
-.khan__buy-link {
-  margin: 0 0 0 48px;
-  padding: 0;
-}
 /* блок цифры */
 .digits {
   width: 100%;
