@@ -1,0 +1,11 @@
+@import url(../blocks/root/root.css); 
+
+.feynman__title {
+    max-width: 648px;
+    line-height: 1.15;
+    font-size: 120px;
+    font-weight: 700;
+    text-align: center;
+    margin: 100px auto 0;
+    padding: 0;
+  }

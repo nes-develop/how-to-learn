@@ -1,0 +1,10 @@
+@import url(../blocks/root/root.css); 
+
+.footer__column-links {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 30px;
+    margin: 20px 0 16px;
+    font-size: 18px;
+    font-weight: normal;
+  }

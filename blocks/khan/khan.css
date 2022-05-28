@@ -1,0 +1,10 @@
+@import url(../blocks/root/root.css);
+
+.khan {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 105px 0 0;
+    background-color: #f2f2f2;
+}
+  

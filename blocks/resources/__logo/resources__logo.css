@@ -1,0 +1,8 @@
+@import url(../blocks/root/root.css); 
+
+.resources__link {
+    width: 270px;
+    height: 38px;
+    padding: 0;
+    margin: 0;
+}

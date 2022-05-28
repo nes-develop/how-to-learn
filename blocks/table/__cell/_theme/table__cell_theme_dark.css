@@ -1,0 +1,9 @@
+@import url(../blocks/root/root.css); 
+
+.table__cell_theme_dark {
+    width: 200px;
+    color: white;
+    margin-top: 80px;
+    margin-bottom: 0;
+  }
+  

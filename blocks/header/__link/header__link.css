@@ -1,0 +1,7 @@
+@import url(../blocks/root/root.css); 
+
+.header__link {
+    color: #2f80ed;
+    text-decoration: none;
+    font-weight: 400;
+  }

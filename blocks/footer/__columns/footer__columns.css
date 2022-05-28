@@ -1,0 +1,12 @@
+@import url(../blocks/root/root.css); 
+
+.footer__columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 90%;
+    margin: 0 auto 0;
+    min-height: 250px;
+    color: white;
+  }
+  

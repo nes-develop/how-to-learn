@@ -1,0 +1,7 @@
+@import url(../blocks/root/root.css); 
+
+.video__iframes {
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+}

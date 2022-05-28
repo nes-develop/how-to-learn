@@ -1,0 +1,15 @@
+@import url(../blocks/root/root.css); 
+
+.header__subtitle {
+    position: absolute;
+    max-width: 388px;
+    bottom: 30px;
+    left: 64px;
+    /* уезжает ссылка на следующую строку */
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 400;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+  }

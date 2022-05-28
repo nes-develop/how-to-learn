@@ -1,0 +1,7 @@
+@import url(../blocks/root/root.css);
+
+.khan__book-pic {
+    width: 620px;
+    height: 608px;
+    /* object-fit: cover; */
+}
