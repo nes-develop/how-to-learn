@@ -7,7 +7,7 @@
     }
   }
  
-@import url(../blocks/root/root.css);
+
 
 .rotation {
     animation: rotation 20s linear infinite;
