@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
-@import url(../blocks/root/root.css);
+@import url(../page/page.css);
+@import url(../blocks/pointing/pointing.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/header/__link/header__link.css);
@@ -7,8 +8,6 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
-@import url(../blocks/logo/_place_header/logo_place_header.css);
-@import url(../blocks/logo/logo.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
@@ -61,7 +60,6 @@
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__link/resources__link.css);
-@import url(../blocks/resources/__links/resources__links.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 /* CSS подвала */
 @import url(../blocks/footer/footer.css);
@@ -73,27 +71,7 @@
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* CSS logo */
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/logo.css);
 

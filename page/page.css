@@ -8,8 +8,3 @@
     /* выше для экранов больше 1600px отцентрировали весь контент */
     font-family: 'Helvetica Neue', Arial, sans-serif;
   }
-
-  a:hover {
-    opacity: 0.4;
-    transition: 0.35s;
-  }
