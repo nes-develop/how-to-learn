@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../page/page.css);
+@import url(../blocks/page/page.css);
 @import url(../blocks/pointing/pointing.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/rotation/rotation.css);
@@ -28,6 +28,7 @@
 @import url(../blocks/oakley/oakley.css);
 /* блок khan */
 @import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/__container/khan__container.css);
 @import url(../blocks/khan/__author/khan__author.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
@@ -64,14 +65,14 @@
 /* CSS подвала */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 /* CSS logo */
-@import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
 
